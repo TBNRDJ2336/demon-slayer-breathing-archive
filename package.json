@@ -1,0 +1,8 @@
+{
+  "name": "demon-slayer-breathing-archive",
+  "version": "1.0.0",
+  "description": "Fan-made 3D Demon Slayer archive (Three.js, no build step)",
+  "scripts": { "start": "npx serve ." },
+  "author": "Dheeraj Satheesh Pillai",
+  "license": "UNLICENSED"
+}
